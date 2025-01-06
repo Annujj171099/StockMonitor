@@ -1,0 +1,9 @@
+streamlit
+yfinance
+pandas
+datetime
+matplotlib
+scikit-learn
+# LinearRegression
+numpy
+requests
